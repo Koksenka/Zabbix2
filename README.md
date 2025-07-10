@@ -1,9 +1,4 @@
 ### Домашнее задание к занятию «Система мониторинга Zabbix. Часть 2» [Moskalenko VV]
-### Задание 1
-
-**Что нужно сделать:**
-
----
 
 ### Задание 1
 Создайте свой шаблон, в котором будут элементы данных, мониторящие загрузку CPU и RAM хоста.
@@ -19,7 +14,9 @@
 
 
 ## Решение:
-
+![alt text](https://github.com/Koksenka/Zabbix2/blob/master/2.png)
+![alt text](https://github.com/Koksenka/Zabbix2/blob/master/3.png)
+![alt text](https://github.com/Koksenka/Zabbix2/blob/master/4.png)
 
  ---
 
@@ -56,7 +53,7 @@
 
  ## Решение:
 
-
+![alt text](https://github.com/Koksenka/Zabbix2/blob/master/1.png)
 
 ### Задание 4
 Создайте свой кастомный дашборд.
@@ -72,4 +69,4 @@
  ---
 
   ## Решение:
-  
+  ![alt text](https://github.com/Koksenka/Zabbix2/blob/master/5.png)
